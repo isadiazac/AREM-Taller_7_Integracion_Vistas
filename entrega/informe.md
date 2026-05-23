@@ -3,6 +3,8 @@
 ## 🔖 Nombre del Taller
 _Taller 7 - Integración de Vistas de Arquitectura_
 
+https://miro.com/welcomeonboard/eGZ6dUZYQXJGbTRjUU5zRk9Ra3BJRUllTTk3QVprQ2dpdEhhQ0YvVkw1YXFaZ2JvS2NKWDVmMkNxWTdic2pwenlHYTR0dnFNeEczRzZPWmY1S044QllaeVpXN2ZyN0FGYlh0bU8vRVFTT1Q1MVJtZWZQNFc4VVRpeWMxbUx0ckRBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=70361557119
+
 ## 👥 Integrantes del equipo
 - Isabela Díaz Acosta
 - Samuel Esteban López Huertas
