@@ -1,8 +1,8 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._# 🗒️ Registro de Trabajo en Clase - Taller 7
-
+ 🗒️ Registro de Trabajo en Clase - Taller 7
+https://miro.com/welcomeonboard/eGZ6dUZYQXJGbTRjUU5zRk9Ra3BJRUllTTk3QVprQ2dpdEhhQ0YvVkw1YXFaZ2JvS2NKWDVmMkNxWTdic2pwenlHYTR0dnFNeEczRzZPWmY1S044QllaeVpXN2ZyN0FGYlh0bU8vRVFTT1NjampOUzJUK01Qc09SQXJMM0MwYnlzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=600856925385
 ## 📆 Fecha de la sesión
 23/05/2026
 
