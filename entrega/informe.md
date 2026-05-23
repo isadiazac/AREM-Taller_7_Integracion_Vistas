@@ -3,7 +3,7 @@
 ## 🔖 Nombre del Taller
 _Taller 7 - Integración de Vistas de Arquitectura_
 
-https://miro.com/welcomeonboard/eGZ6dUZYQXJGbTRjUU5zRk9Ra3BJRUllTTk3QVprQ2dpdEhhQ0YvVkw1YXFaZ2JvS2NKWDVmMkNxWTdic2pwenlHYTR0dnFNeEczRzZPWmY1S044QllaeVpXN2ZyN0FGYlh0bU8vRVFTT1Q1MVJtZWZQNFc4VVRpeWMxbUx0ckRBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=70361557119
+https://miro.com/welcomeonboard/OGJHS1c1UW00QU1vQVhwWGdyK0x6dVdqZXArTUV3UUZTYjFkOGV4RStvTGl1K2hjdGVvUy9maWtoUGVsVXV1MHVBN2YrWXdjcnpHdmJnbFpXcVoxM0laeVpXN2ZyN0FGYlh0bU8vRVFTT1JJaXRXY2xHRFNPWUdNTGNWS1B1Q1ZhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=13758644422
 
 ## 👥 Integrantes del equipo
 - Isabela Díaz Acosta
